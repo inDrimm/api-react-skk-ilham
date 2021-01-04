@@ -91,7 +91,7 @@
         "progressUsulan" : "Diterima"
     },
 	{
-        "NoSU" : "198609262015051012,
+        "NoSU" : "198609262015051012",
         "jenisProsedur" : "Perbaikan Nama PNS",
         "nama" : "Alan Hadi",
 		"tglPengusulan" : "02/08/2020",
@@ -125,6 +125,6 @@
 		"tglPenetapan" : "05/08/2020",
 		"instansi" : "BKN",
         "progressUsulan" : "Diterima"
-    },
+    }
 	]
 }
