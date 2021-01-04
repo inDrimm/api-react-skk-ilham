@@ -1,130 +1,130 @@
 {
 "data" :[
-    {
-        "NoSU" : "198609262015051001",
-        "jenisProsedur" : "Perbaikan Nama PNS",
-        "nama" : "Alan Hadi",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-    {
-        "NoSU" : "198609262015051003",
-        "jenisProsedur" : "Perbaikan Elemen NIP",
-        "nama" : "Zulfa Nafar Farishao",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-	{
-        "NoSU" : "198609262015051004",
-        "jenisProsedur" : "Perbaikan Nama PNS",
-        "nama" : "Alan Hadi",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-	{
-        "NoSU" : "198609262015051005",
-        "jenisProsedur" : "Perbaikan Nama PNS",
-        "nama" : "Alan Hadi",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-    {
-        "NoSU" : "198609262015051006",
-        "jenisProsedur" : "Penetapan Rekomendasi",
-        "nama" : "Bimo Suryo",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-	{
-        "NoSU" : "198609262015051007",
-        "jenisProsedur" : "Perbaikan Elemen NIP",
-        "nama" : "Zulfa Nafar Farishao",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-	{
-        "NoSU" : "198609262015051008",
-        "jenisProsedur" : "Perbaikan Nama PNS",
-        "nama" : "Alan Hadi",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-	{
-        "NoSU" : "198609262015051009",
-        "jenisProsedur" : "Perbaikan Nama PNS",
-        "nama" : "Alan Hadi",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-    {
-        "NoSU" : "1986092620150510",
-        "jenisProsedur" : "Perbaikan Elemen NIP",
-        "nama" : "Zulfa Nafar Farishao",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-	{
-        "NoSU" : "198609262015051011",
-        "jenisProsedur" : "Perbaikan Elemen NIP",
-        "nama" : "Zulfa Nafar Farishao",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-	{
-        "NoSU" : "198609262015051012,
-        "jenisProsedur" : "Perbaikan Nama PNS",
-        "nama" : "Alan Hadi",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-	{
-        "NoSU" : "198609262015051013",
-        "jenisProsedur" : "Perbaikan Nama PNS",
-        "nama" : "Alan Hadi",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-    {
-        "NoSU" : "198609262015051014",
-        "jenisProsedur" : "Perbaikan Elemen NIP",
-        "nama" : "Zulfa Nafar Farishao",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-    {
-        "NoSU" : "198609262015051002",
-        "jenisProsedur" : "Penetapan Rekomendasi",
-        "nama" : "Bimo Suryo",
-		"tglPengusulan" : "02/08/2020",
-		"tglPenetapan" : "05/08/2020",
-		"instansi" : "BKN",
-        "progressUsulan" : "Diterima"
-    },
-	]
+{
+"NoSU" : "198609262015051001",
+"jenisProsedur" : "Perbaikan Nama PNS",
+"nama" : "Alan Hadi",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051003",
+"jenisProsedur" : "Perbaikan Elemen NIP",
+"nama" : "Zulfa Nafar Farishao",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051004",
+"jenisProsedur" : "Perbaikan Nama PNS",
+"nama" : "Alan Hadi",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051005",
+"jenisProsedur" : "Perbaikan Nama PNS",
+"nama" : "Alan Hadi",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051006",
+"jenisProsedur" : "Penetapan Rekomendasi",
+"nama" : "Bimo Suryo",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051007",
+"jenisProsedur" : "Perbaikan Elemen NIP",
+"nama" : "Zulfa Nafar Farishao",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051008",
+"jenisProsedur" : "Perbaikan Nama PNS",
+"nama" : "Alan Hadi",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051009",
+"jenisProsedur" : "Perbaikan Nama PNS",
+"nama" : "Alan Hadi",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "1986092620150510",
+"jenisProsedur" : "Perbaikan Elemen NIP",
+"nama" : "Zulfa Nafar Farishao",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051011",
+"jenisProsedur" : "Perbaikan Elemen NIP",
+"nama" : "Zulfa Nafar Farishao",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051012,
+"jenisProsedur" : "Perbaikan Nama PNS",
+"nama" : "Alan Hadi",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051013",
+"jenisProsedur" : "Perbaikan Nama PNS",
+"nama" : "Alan Hadi",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051014",
+"jenisProsedur" : "Perbaikan Elemen NIP",
+"nama" : "Zulfa Nafar Farishao",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+{
+"NoSU" : "198609262015051002",
+"jenisProsedur" : "Penetapan Rekomendasi",
+"nama" : "Bimo Suryo",
+"tglPengusulan" : "02/08/2020",
+"tglPenetapan" : "05/08/2020",
+"instansi" : "BKN",
+"progressUsulan" : "Diterima"
+},
+]
 }
